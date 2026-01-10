@@ -2,9 +2,9 @@
   "application-name": "Note Do",
   "pack-name": "dev.cas.note_do",
   "release-channel": "alpha",
-  "version": "v0.0.5-alpha",
+  "version": "v0.0.6-alpha",
   "latest-update": {
-    "code": "2025.12.28-alpha",
+    "code": "2025.01.10-alpha",
     "summary": "Initial Alpha release",
     "notes": [
     ],
@@ -12,7 +12,7 @@
   },
   "service-id": "9832-15976098531-32",
   "reset-database": false,
-  "database-version": "v0.0.50",
+  "database-version": "v0.0.53",
   "alpha-policy": {
     "data-stability": "unstable",
     "api-stability": "unstable",
