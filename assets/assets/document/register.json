@@ -8,6 +8,7 @@
     "task-group-id": 0,
     "setting:theme": "light",
     "setting:lang": 0,
+    "setting:dark-mode-enable": false,
     "calendar-view-mode": 0
   },
   "debug": {
@@ -23,7 +24,8 @@
     "<init>": null
   },
   "todos": {
-    "<init>": null
+    "<init>": null,
+    "unname-times": -0
   },
   "tags": {
     "<init>": null
